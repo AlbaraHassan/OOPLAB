@@ -1,0 +1,12 @@
+# Lab 1
+
+---
+
+| Tasks |                                                                                                                                      Discription                                                                                                                                       | Status |
+|-------|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|-------:|
+| Ex1   |                                                                                                                  Create a program that prints your name to the screen                                                                                                                  |   DONE |
+| Ex2   |                                                                                                                    Create a program that prints out Hello world ...                                                                                                                    |   DONE |
+| Ex3   |                                                                                                           Create a program that counts how many seconds there are in a year.                                                                                                           |   DONE |
+| Ex4   |                                                                                                    Create a program that asks the user for two integers and then prints their sum.                                                                                                     |   DONE |
+| Ex5   |                                                                                                  Create a program that asks the user for a number and tells if the number is positive                                                                                                  |   DONE |
+| Ex6   |                                                                                                Create a program that asks the user for two numbers and prints the greater of those two.                                                                                                |   DONE |
