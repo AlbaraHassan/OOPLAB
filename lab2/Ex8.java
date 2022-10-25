@@ -9,10 +9,11 @@ public class Ex8 {
 
     public static void main(String[] args) {
         int number = drawNumber();
-        int guess;
+        int guess, count = 0;
         while (true) {
             System.out.print("Guess the number: ");
             guess = new Scanner(System.in).nextInt();
+            count++;
             if (guess > number) System.out.println("The number is lesser!");
             else if (guess < number) System.out.println("The number is greater!");
             else {
@@ -20,5 +21,6 @@ public class Ex8 {
                 break;
             }
         }
+        System.out.println("Number of guesses: " + count);
     }
 }
