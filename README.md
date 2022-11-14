@@ -2,8 +2,7 @@
 
 ---
 
-| Tasks |                                                               Discription                                                               | Status |
-|-------|:---------------------------------------------------------------------------------------------------------------------------------------:|-------:|
-| Ex1   |                                                           ArrayList exercise                                                            |   DONE |
-| Ex2   |                     Class Dice                      |   DONE |
-| Ex3   |Lyyra cards|   DONE |
+| Tasks |            Discription            | Status |
+|-------|:---------------------------------:|-------:|
+| Ex1   | Team and player classes and stuff |   DONE |
+
