@@ -5,18 +5,19 @@ import java.util.Scanner;
 
 public class BirdWatchers {
     private ArrayList<Bird> birds = new ArrayList<>();
+    private Scanner reader = new Scanner(System.in);
 
-    public void addBird(Scanner reader){
+    public void addBird(){
         System.out.print("Name: ");
-        String name = reader.nextLine();
+        String name = this.input();
         System.out.print("Latin Name: ");
-        String latinName = reader.nextLine();
+        String latinName = this.input();
         this.birds.add(new Bird(name, latinName));
     }
 
-    public void observe(Scanner reader){
+    public void observe(){
         System.out.println("What was observed? ");
-        String searched = reader.nextLine();
+        String searched = this.input();
         for(Bird bird : this.birds){
             if(StringUtils.included(bird.getName(), searched) || StringUtils.included(bird.getLatinName(), searched)){
                 bird.addObservation();
@@ -32,14 +33,17 @@ public class BirdWatchers {
         }
     }
 
-    public void show(Scanner reader){
+    public void show(){
         System.out.println("What? ");
-        String searched = reader.nextLine();
+        String searched = this.input();
         for(Bird bird : this.birds){
             if(StringUtils.included(bird.getName(), searched) || StringUtils.included(bird.getLatinName(), searched)){
                 System.out.println(bird);
             }
         }
+    }
 
+    public String input(){
+        return this.reader.nextLine();
     }
 }
