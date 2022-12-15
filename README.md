@@ -1,4 +1,4 @@
-# Main
+# <center>Main<center>
 
 This is my first program or playground trying out java before officially starting with OOP labs. 😁
 
@@ -7,12 +7,12 @@ This program here asks the user to enter their name but once the user says that 
 `
 
 ---
-# About the repository
+# <center>About the repository</center>
 
 This repository contains all the programs and the code we do in OOP labs, each lab can be found in it's own branch ( <em> because I like to practise git </em> 😂 ), and each branch has it's own README.md file <strong>explaining it's contents</strong>
 
 ---
-# Catalogue
+# <center>Catalogue</center>
 #### Click on the links to move to a different branch ⬇️
 
 
