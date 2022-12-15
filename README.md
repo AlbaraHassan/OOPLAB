@@ -2,8 +2,11 @@
 
 ---
 
-| Tasks |                           Discription                            | Status |
-|-------|:----------------------------------------------------------------:|-------:|
-| Ex1   |    Create a HashMap<String,String> object in the main method.    |   DONE |
-| Ex2   | Create the class PromissoryNote with the following functionality |   DONE |
-| Ex3   |                            Dictionary                            |   DONE |
+| Tasks |   Discription    | Status |
+|-------|:----------------:|-------:|
+| Ex1   | National Service |   DONE |
+| Ex2   |  Storage Boxes   |   DONE |
+| Ex3   |  Generic Class   |   DONE |
+| Ex4   |   Online Shop    |   DONE |
+
+---
