@@ -1,4 +1,4 @@
-# mainpackage.Main
+# Main
 
 This is my first program or playground trying out java before officially starting with OOP labs. 😁
 
