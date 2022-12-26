@@ -2,7 +2,7 @@
 
 ---
 
-| Tasks |           Discription           | Status |
+| Tasks |           Description           | Status |
 |-------|:-------------------------------:|-------:|
 | Ex1   |              mooc               |   DONE |
 | Ex2   |    IllegalArgumentException     |   DONE |
