@@ -2,12 +2,15 @@
 
 ---
 
-| Tasks |   Discription    | Status |
-|-------|:----------------:|-------:|
-| Ex1   | National Service |   DONE |
-| Ex2   |  Storage Boxes   |   DONE |
-| Ex3   |  Generic Class   |   DONE |
-| Ex4   |   Online Shop    |   DONE |
+| Tasks |           Discription           | Status |
+|-------|:-------------------------------:|-------:|
+| Ex1   |              mooc               |   DONE |
+| Ex2   |    IllegalArgumentException     |   DONE |
+| Ex3   |             Sensor              |   DONE |
+| Ex4   |             Printer             |   DONE |
+| Ex5   |              File               |   DONE |
+| Ex6   | PersonalMultipleEntryDictionary |   DONE |
+| Ex7   |    PersonalDuplicateRemover     |   DONE |
 
 
 ---
